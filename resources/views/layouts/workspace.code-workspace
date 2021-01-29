@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\excel_proyecto"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\diseño_web"
+		},
+		{
+			"path": "D:\\descargas\\ejemplo-plantilla"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "excel_proyecto"
+	}
+}
